@@ -1,7 +1,7 @@
 {
   "main.css": "/tekizian-site/static/css/main.b21a4d43.chunk.css",
-  "main.js": "/tekizian-site/static/js/main.46db5ea6.chunk.js",
-  "main.js.map": "/tekizian-site/static/js/main.46db5ea6.chunk.js.map",
+  "main.js": "/tekizian-site/static/js/main.d8043b08.chunk.js",
+  "main.js.map": "/tekizian-site/static/js/main.d8043b08.chunk.js.map",
   "static/js/1.643eebd7.chunk.js": "/tekizian-site/static/js/1.643eebd7.chunk.js",
   "static/js/1.643eebd7.chunk.js.map": "/tekizian-site/static/js/1.643eebd7.chunk.js.map",
   "runtime~main.js": "/tekizian-site/static/js/runtime~main.0cae5b2e.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/tekizian-site/static/media/logo.5d5d9eef.svg",
   "static/css/main.b21a4d43.chunk.css.map": "/tekizian-site/static/css/main.b21a4d43.chunk.css.map",
   "index.html": "/tekizian-site/index.html",
-  "precache-manifest.23e4c5ad9d3ce7fcb8ea8c67ae868d2d.js": "/tekizian-site/precache-manifest.23e4c5ad9d3ce7fcb8ea8c67ae868d2d.js",
+  "precache-manifest.7437c96b593f4005121564851217fde0.js": "/tekizian-site/precache-manifest.7437c96b593f4005121564851217fde0.js",
   "service-worker.js": "/tekizian-site/service-worker.js"
 }
