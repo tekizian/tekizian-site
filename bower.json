@@ -1,0 +1,29 @@
+{
+  "name": "react-nav-bar",
+  "version": "0.0.0",
+  "description": "NavBar",
+  "main": "dist/react-nav-bar.min.js",
+  "homepage": "https://github.com//react-nav-bar",
+  "authors": [
+    ""
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
