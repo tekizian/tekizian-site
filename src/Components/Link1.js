@@ -8,7 +8,7 @@ export class Link1 extends Component {
 
     render(){
         return(
-            <h1>Link1</h1>
+            <h1>Link1: {process.env.PUBLIC_URL}</h1>
         );
     }
 }

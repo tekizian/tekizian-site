@@ -15,7 +15,7 @@ export class Main extends Component {
             <div>
                 <main>
                     <Switch>
-                        <Route exact path='/' component={Home}/>
+                        <Route exact path="/" component={Home}/>
                         <Route path='/link1' component={Link1}/>
                     </Switch>
                 </main>
