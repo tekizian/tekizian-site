@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/tekizian-site/static/js/runtime~main.0cae5b2e.js"
   },
   {
-    "revision": "4e1a63b47d11ae7b9fa1",
-    "url": "/tekizian-site/static/js/main.4e1a63b4.chunk.js"
+    "revision": "cd4ce7971234df1e20ca",
+    "url": "/tekizian-site/static/js/main.cd4ce797.chunk.js"
   },
   {
     "revision": "418786d60c166a1ac922",
     "url": "/tekizian-site/static/js/1.418786d6.chunk.js"
   },
   {
-    "revision": "4e1a63b47d11ae7b9fa1",
+    "revision": "cd4ce7971234df1e20ca",
     "url": "/tekizian-site/static/css/main.97aa8de0.chunk.css"
   },
   {
-    "revision": "14d0bde37298c4d87881a3d007438f0c",
+    "revision": "7f5d61640f504f6b0644026ad40460e7",
     "url": "/tekizian-site/index.html"
   }
 ];
