@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tekizian-site/precache-manifest.ad6e7487e511f69dadc158b7e3fe32b1.js"
+  "/tekizian-site/precache-manifest.f16662cf5f65a5c1f66b43d793cc4358.js"
 );
 
 workbox.clientsClaim();
